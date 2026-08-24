@@ -42,7 +42,18 @@ Colour follows a strict three-layer order: dark structure carries weight, pale n
 
 These samples demonstrate the 005 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 005 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Compress a photograph into a fairy-tale print of dark structure and tiny vivid signals |
+| **Recognizable signature** | BLUNT MASSES · DARK STRUCTURAL FIELD · PARTIAL REVEAL · THREE-LAYER COLOUR · SCREENPRINT × PASTEL |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Fairy-tale drawing” easily collapses into generic cute cartooning: add a dark background, distribute bright colours evenly, then paste in castles, stars, or smiling faces and call it a story.
 
@@ -54,7 +65,7 @@ lock source facts → compress into one or two blunt masses → grow a dark fiel
 
 If an unrelated photograph could replace the source without materially changing the blunt masses, dark-field role, occlusion logic, bright signals, or copy, the result is not 005.
 
-## The 005 visual contract
+## What makes the finished style recognizable
 
 - **One or two blunt masses:** retain at least three source-specific cues across identity, action, function, and emotion; detail stays low while recognition stays high.
 - **A source-grown dark field:** one dominant low-value structure must come from the source and clearly act as container, path, frame, or density shell.
