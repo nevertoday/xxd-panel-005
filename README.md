@@ -22,6 +22,26 @@ XXD Panel 005 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 颜色始终遵守三层秩序：暗结构承担重量，浅色负形提供呼吸，极少的高饱和色只标记面部、姿态、路径、功能点或叙事焦点。平面丝网印刷与粉蜡笔共同留下干刷、颗粒、飞白、纸纹、喷点和轻微套印错位；文字只作为小标识、物体面板或边缘注释嵌入画面。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
+> GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 005 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 005 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 005 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 005 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 005 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 005
 
 普通“童话手绘”很容易退化成通用可爱卡通：加一个黑背景、平均撒亮色，再贴上城堡、星星或笑脸，就以为产生了故事。
@@ -44,26 +64,6 @@ XXD Panel 005 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **稀疏功能线：** 线条只出现在功能、路径、边界、纹理和识别处，略不准确但不损害身份。
 - **丝网印刷 × 粉蜡笔：** 平面色块保留干刷、颗粒、飞白、纸纹、喷点和轻微套印偏移。
 - **结构内文字：** 文字仅作为圆钝、低密度的小标识、物体面板或边缘注释。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
-> GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 005 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 005 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 005 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 005 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 005 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

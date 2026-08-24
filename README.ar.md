@@ -24,6 +24,26 @@ XXD Panel 005 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 يلتزم اللون بثلاث طبقات: بنية داكنة تحمل الوزن، وفراغ فاتح يمنح التنفس، ومساحات مشبعة صغيرة جداً لا تشير إلا إلى وجه أو وضعية أو مسار أو نقطة وظيفية أو بؤرة سردية. تجمع الخامة بين الطباعة الحريرية المسطحة والباستيل المسحوق، مع فرشاة جافة وحبيبات وملمس ورق ورذاذ وبياض متقطع وانزياح تسجيل طفيف. ولا يظهر النص إلا كلافتة صغيرة أو لوحة على جسم أو ملاحظة طرفية.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
+> GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 005 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 005 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 005 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 005 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 005 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 005؟
 
 يتحوّل «أسلوب الحكايات» بسهولة إلى كرتون لطيف عام: خلفية داكنة، وألوان ساطعة موزعة بالتساوي، ثم قلاع ونجوم ووجوه مبتسمة تُلصق كي تبدو الصورة كأنها قصة.
@@ -46,26 +66,6 @@ XXD Panel 005 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **خط وظيفي مقتصد:** لا يظهر الخط إلا للوظيفة والمسار والحدود والملمس والتعرّف.
 - **طباعة حريرية × باستيل:** تحتفظ الكتل المسطحة بآثار الفرشاة الجافة والحبيبات وملمس الورق والرذاذ والبياض المتقطع وانزياح التسجيل.
 - **نص داخل البنية:** يُعامل كلافتة صغيرة مستديرة وغليظة ومنخفضة الكثافة، أو لوحة جسم، أو ملاحظة طرفية.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
-> GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 005 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 005 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 005 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 005 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 005 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

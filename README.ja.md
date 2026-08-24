@@ -22,6 +22,26 @@ XXD Panel 005 は、Codex と互換 Agent のための画像生成 Skill です�
 
 色は暗い構造、淡い余白、ごく小さな高彩度の合図という三層を守ります。平面的なシルクスクリーンと粉っぽいパステルが、かすれ、粒子、紙目、飛沫、白抜け、わずかな見当ずれを残します。文字は小さな標識、物体パネル、または端の注記としてのみ構造に組み込みます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
+> GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 005 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 005 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 005 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 005 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 005 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 005 が必要なのか
 
 一般的な「童話風」は、暗い背景に明るい色を均等に散らし、城、星、笑顔を足すだけの汎用的な可愛い漫画へ崩れがちです。
@@ -44,26 +64,6 @@ XXD Panel 005 は、Codex と互換 Agent のための画像生成 Skill です�
 - **疎な機能線：** 線は機能、道、境界、質感、識別にだけ使います。
 - **シルクスクリーン × パステル：** 平面色にかすれ、粒子、紙目、飛沫、白抜け、わずかな見当ずれを残します。
 - **構造内の文字：** 丸く鈍い低密度の小標識、物体パネル、端の注記として扱います。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
-> GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 005 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 005 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 005 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 005 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 005 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
