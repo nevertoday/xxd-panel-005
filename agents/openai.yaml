@@ -1,4 +1,4 @@
 interface:
-  display_name: "XXD Panel 005"
+  display_name: "/xxd-panel-005"
   short_description: "Create dark-field fairy-tale screenprint artwork."
   default_prompt: "Use $xxd-panel-005 to turn my photo into a dark-field fairy-tale screenprint with blunt recognisable masses, tiny vivid signals, and copy that belongs to the image; ask first for modes and copy or locale preferences."
