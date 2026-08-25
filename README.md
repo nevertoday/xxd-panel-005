@@ -42,6 +42,12 @@ XXD Panel 005 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 颜色始终遵守三层秩序：暗结构承担重量，浅色负形提供呼吸，极少的高饱和色只标记面部、姿态、路径、功能点或叙事焦点。平面丝网印刷与粉蜡笔共同留下干刷、颗粒、飞白、纸纹、喷点和轻微套印错位；文字只作为小标识、物体面板或边缘注释嵌入画面。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 005 适合你吗？
 
@@ -78,7 +84,7 @@ XXD Panel 005 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 ## 原始提示词优先，而不是二次导演
 
-`references/005-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
@@ -225,7 +231,7 @@ $xxd-panel-005
 - [Skill 工作流](SKILL.md)
 - [中文运行适配器](references/xxd-panel-005-prompt.zh-CN.md)
 - [英文运行适配器](references/xxd-panel-005-prompt.en.md)
-- [原始风格提示词](references/005-source.md)
+- [原始风格提示词](references/original-prompt/zh-CN.md)
 
 ## 边界与信任
 
