@@ -16,16 +16,7 @@
 
 </div>
 
-> BLUNT MASSES · DARK STRUCTURAL FIELD · PARTIAL REVEAL · THREE-LAYER COLOUR · SCREENPRINT × PASTEL
-
-XXD Panel 005 is an image-generation Skill for Codex and compatible agents. It preserves real identity, action, function, and emotion, compresses the subject into one or two blunt recognisable masses, then grows one dark structural field from the source's space and meaning. Occlusion, cropping, engulfment, and partial reveal turn that field into fairy-tale print narrative.
-
-Colour follows a strict three-layer order: dark structure carries weight, pale negative shape provides breath, and tiny saturated blocks mark only an informative face, pose, path, functional point, or narrative focus. Flat screenprint and powdery pastel bring dry brush, grain, scumble, paper tooth, spray, broken white, and slight misregistration. Type appears only as a small sign, object panel, or edge annotation.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
-> GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ Colour follows a strict three-layer order: dark structure carries weight, pale n
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
+> GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 005 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> BLUNT MASSES · DARK STRUCTURAL FIELD · PARTIAL REVEAL · THREE-LAYER COLOUR · SCREENPRINT × PASTEL
+
+XXD Panel 005 is an image-generation Skill for Codex and compatible agents. It preserves real identity, action, function, and emotion, compresses the subject into one or two blunt recognisable masses, then grows one dark structural field from the source's space and meaning. Occlusion, cropping, engulfment, and partial reveal turn that field into fairy-tale print narrative.
+
+Colour follows a strict three-layer order: dark structure carries weight, pale negative shape provides breath, and tiny saturated blocks mark only an informative face, pose, path, functional point, or narrative focus. Flat screenprint and powdery pastel bring dry brush, grain, scumble, paper tooth, spray, broken white, and slight misregistration. Type appears only as a small sign, object panel, or edge annotation.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 005 right for you?
