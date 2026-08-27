@@ -27,7 +27,12 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 005 作例 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 005 作例 4"></a></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 005 作例 5"></td>
+  </tr>
 </table>
+
+> 追加サンプル：陳翔ポスターのグループから写真を1枚ランダムに選び、この Panel の原文ブリーフに従う16:9左右構成と英語の自動生成テキストで作成しました。
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
 > GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005

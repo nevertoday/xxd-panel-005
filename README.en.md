@@ -27,7 +27,12 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 005 sample 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089987808664719723"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 005 sample 4"></a></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 005 Sample 5"></td>
+  </tr>
 </table>
+
+> New sample: one photo was randomly selected from the Chenxiang poster group and rendered with this Panel's original brief as a 16:9 left-right composition with original-brief-generated English copy.
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089987808664719723) · 2026-08-19<br>
 > GPT2 x 格林童话 x 转绘 x 童趣 x 美学提示词 x VOL.005
