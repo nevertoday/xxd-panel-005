@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 005
+# 🦁 XXD Panel 005｜어두운 동화 에디션
 
 ### 사진을 어두운 구조와 작은 선명색이 이야기를 만드는 동화 판화로
 

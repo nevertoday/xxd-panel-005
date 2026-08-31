@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 005
+# 🦁 XXD Panel 005｜童話ダーク版
 
 ### 写真を、暗い構造と小さな鮮色が物語る童話版画へ
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 005
+# 🦁 XXD Panel 005｜童话暗版
 
 ### 把照片压缩成暗场包裹、亮色闪现的童话版画叙事
 

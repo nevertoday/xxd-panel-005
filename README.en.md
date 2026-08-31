@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 005
+# 🦁 XXD Panel 005｜Dark Fairytale Edition
 
 ### Compress a photograph into a fairy-tale print of dark structure and tiny vivid signals
 
