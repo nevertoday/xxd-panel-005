@@ -86,6 +86,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -102,29 +111,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-“Fairy-tale drawing” easily collapses into generic cute cartooning: add a dark background, distribute bright colours evenly, then paste in castles, stars, or smiling faces and call it a story.
-
-005 reverses that logic:
-
-```text
-lock source facts → compress into one or two blunt masses → grow a dark field from the source → narrate through occlusion and partial reveal → fix dark/pale/saturated roles → finish with screenprint and powdery pastel
-```
-
-If an unrelated photograph could replace the source without materially changing the blunt masses, dark-field role, occlusion logic, bright signals, or copy, the result is not 005.
-
-## What makes the finished style recognizable
-
-- **One or two blunt masses:** retain at least three source-specific cues across identity, action, function, and emotion; detail stays low while recognition stays high.
-- **A source-grown dark field:** one dominant low-value structure must come from the source and clearly act as container, path, frame, or density shell.
-- **Structural narrative:** occlusion, cropping, engulfment, and partial reveal control information instead of stock fairy-tale symbols.
-- **Flat storybook staging:** choose one suitable device—compressed overhead view, lateral movement, frontal frame, path guidance, scale jump, or edge crop.
-- **Three-layer colour:** dark structure carries weight, pale field creates breath, and tiny saturated blocks guide reading and story.
-- **Sparse functional line:** line appears only for function, route, boundary, texture, and recognition, remaining imperfect without losing identity.
-- **Screenprint × powdery pastel:** flat colour holds dry brush, grain, scumble, paper tooth, spray, broken white, and slight registration drift.
-- **Type inside structure:** lettering is a rounded, low-density small sign, object panel, or edge annotation.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
