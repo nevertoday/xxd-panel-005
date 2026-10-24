@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 005｜Dark Fairytale Edition: compresses a photo into a fairy-tale print: the subject becomes one or two blunt, slightly exaggerated shapes wrapped by a large dark structural field taken from the scene (a frame, path or dense layer that hides and reveals), flat picture-book perspective with top-down compression, scale jumps or edge cropping, a three-part palette of heavy dark structure, light breathing space and small saturated emotion colours on the face or story focus, sparse slightly inaccurate thin lines, flat colour with dry brush, grain, speckle and slight misregistration like screenprint and crayon, and a few rounded hand-lettered labels. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-005 or asks for dark fairy-tale prints, screenprint picture-book illustration or crayon-and-screenprint storybook art from a photo.",
+  "short_description": "童话暗版：把照片压成暗色结构包裹、亮色小块闪现的丝网粉蜡笔童话版画",
+  "zh-CN": {
+    "name": "童话暗版",
+    "tagline": "把照片压成被大块暗色包住、只在关键处闪出亮色的童话版画。",
+    "look": "主体被压成一两个钝拙的大体块，比例略夸张，只留下几处关键边缘，仍认得出是谁、在做什么。周围从原图空间里长出一片大面积暗色结构，像框、路径或密林，把主体包住、挡住一部分再露出一部分；视角是绘本式的平面叙事，可以俯视压扁、尺度跳跃或边缘裁切。颜色分三层：暗色负责重量，浅色负责呼吸，小块高饱和色只落在脸、动作或故事焦点上。色块平涂，带干刷、颗粒、飞白、喷点和轻微套色错位，像丝网印刷加粉蜡笔；文字很少，是圆钝的手写小标识或边缘注释。",
+    "traits": [
+      "钝拙体块",
+      "暗色结构",
+      "丝网印刷",
+      "粉蜡笔",
+      "童话"
+    ],
+    "good": [
+      "有故事感环境的单一主体：站在门口的孩子、夜里窗台上的猫、林中小屋",
+      "有明确路径或框的画面：小巷里的行人、隧道口、亮着灯的窗",
+      "想做成绘本页、故事封面或有点神秘感的插画"
+    ],
+    "poor": [
+      "想要明亮、轻盈、大面积浅色的效果",
+      "很多同样重要的主体并排的照片，会被压成一两块而失去辨识",
+      "需要写实光影、立体体积、光滑矢量或 3D 质感的需求"
+    ]
+  },
+  "en": {
+    "name": "Dark Fairytale Edition",
+    "tagline": "Compresses a photo into a fairy-tale print wrapped in dark shapes, with small flashes of bright colour.",
+    "look": "The subject is reduced to one or two blunt, slightly exaggerated shapes with only a few key edges, still showing who it is and what it is doing. A large dark structure grows out of the scene around it, like a frame, a path or a thicket, wrapping it, hiding part of it and letting part show; the view is flat picture-book storytelling, with top-down compression, jumps in scale or cropping at the edge. Colour works in three layers: dark for weight, light for breathing room, and small saturated patches only on the face, the gesture or the story's focus. Flat colour carries dry brush, grain, flecks, speckle and slight misregistration like screenprint with crayon, and any text is a few rounded hand-lettered labels or margin notes.",
+    "traits": [
+      "Blunt shapes",
+      "Dark structure",
+      "Screenprint",
+      "Crayon",
+      "Fairy tale"
+    ],
+    "good": [
+      "A single subject in a setting with a story: a child in a doorway, a cat on a windowsill at night, a cabin in the woods",
+      "Scenes with a clear path or frame: someone in an alley, a tunnel mouth, a lit window",
+      "Photos you want as a picture-book page, a story cover or a slightly mysterious illustration"
+    ],
+    "poor": [
+      "Requests for a bright, airy look with lots of pale space",
+      "Photos with many equally important subjects side by side, which lose their identity when merged into one or two shapes",
+      "Requests for realistic lighting, solid volume, smooth vector or 3D"
+    ]
+  },
+  "ja": {
+    "name": "童話ダーク版",
+    "tagline": "写真を、暗い大きな形に包まれ、要所だけ明るい色が光る童話版画にします。",
+    "look": "主役は一つか二つの鈍くて素朴な大きな形にまとめ、比率を少し誇張し、要となる輪郭だけを残しますが、誰が何をしているかはわかります。まわりには元の空間から伸びた大きな暗い構造が、枠や道、茂みのように主役を包み、一部を隠し一部を見せます。視点は絵本のような平面的な語り口で、俯瞰で押しつぶしたり、スケールを飛ばしたり、端で切ったりします。色は三層で、暗い色が重さ、淡い色が呼吸、彩度の高い小さな色面が顔や動き、物語の焦点だけにのります。色面はベタ塗りで、ドライブラシ、粒子、かすれ、飛沫、わずかな版ずれを残し、シルクスクリーンとクレヨンを合わせたような仕上がりです。文字は少なく、丸みのある手書きの小さなラベルや余白の注記です。",
+    "traits": [
+      "素朴な塊",
+      "暗い構造",
+      "シルクスクリーン",
+      "クレヨン",
+      "童話"
+    ],
+    "good": [
+      "物語を感じる場所にいる一つの主役：戸口に立つ子ども、夜の窓辺の猫、森の小屋",
+      "道や枠がはっきりした場面：路地を歩く人、トンネルの入口、明かりのともる窓",
+      "絵本の一ページ、物語の表紙、少し謎めいたイラストにしたい写真"
+    ],
+    "poor": [
+      "明るく軽やかで、淡い色の面が広い仕上がりを求める場合",
+      "同じくらい重要な主役が何人も並ぶ写真（一、二個の形にまとめると誰かわからなくなります）",
+      "写実的な光、立体感、なめらかなベクター、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "어두운 동화 에디션",
+    "tagline": "사진을 커다란 어두운 형태가 감싸고 중요한 곳에만 밝은 색이 반짝이는 동화 판화로 바꿉니다.",
+    "look": "주인공은 한두 개의 뭉툭하고 서툰 큰 덩어리로 줄이고 비율을 살짝 과장하며 핵심 윤곽만 남기지만, 누가 무엇을 하는지는 알아볼 수 있습니다. 주변에는 원래 공간에서 자라난 넓은 어두운 구조가 틀이나 길, 덤불처럼 주인공을 감싸고 일부는 가리고 일부는 드러냅니다. 시점은 그림책 같은 평면 서사로, 위에서 눌러 보거나 크기를 건너뛰거나 가장자리를 잘라 냅니다. 색은 세 겹으로, 어두운 색은 무게, 밝은 색은 숨 쉴 공간, 채도 높은 작은 색면은 얼굴이나 동작, 이야기의 초점에만 놓입니다. 색면은 평평하게 칠하고 드라이 브러시, 입자, 비백, 튄 점, 약간의 인쇄 어긋남을 남겨 실크스크린과 크레용을 함께 쓴 느낌을 냅니다. 글자는 적고 둥근 손글씨 작은 라벨이나 가장자리 메모입니다.",
+    "traits": [
+      "뭉툭한 덩어리",
+      "어두운 구조",
+      "실크스크린",
+      "크레용",
+      "동화"
+    ],
+    "good": [
+      "이야기가 느껴지는 장소의 단일 주인공: 문간에 선 아이, 밤 창가의 고양이, 숲속 오두막",
+      "길이나 틀이 분명한 장면: 골목을 걷는 사람, 터널 입구, 불 켜진 창",
+      "그림책 한 페이지, 이야기 표지, 조금 신비로운 일러스트로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "밝고 가벼우며 연한 색 면이 넓은 결과를 원하는 경우",
+      "비슷하게 중요한 주인공이 여럿 나란히 있는 사진(한두 덩어리로 줄이면 알아보기 어렵습니다)",
+      "사실적인 빛, 입체감, 매끈한 벡터, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "نسخة الحكاية المظلمة",
+    "tagline": "يختصر الصورة في مطبوعة حكايات تلفّها أشكال داكنة كبيرة، مع ومضات صغيرة من لون زاهٍ.",
+    "look": "يُختزل العنصر الرئيسي في كتلة أو كتلتين كبيرتين بسيطتين ونِسب مبالغ فيها قليلاً، مع حواف أساسية قليلة، ويبقى واضحاً من هو وماذا يفعل. حوله تنمو من المشهد الأصلي بنية داكنة واسعة، كإطار أو طريق أو أجمة، تلفّه وتخفي جزءاً منه وتُظهر جزءاً، والمنظور سردي مسطّح كصفحات الكتب المصوّرة، بضغط من الأعلى أو قفزات في الحجم أو قصّ عند الحافة. يعمل اللون في ثلاث طبقات: الداكن للثقل، والفاتح للتنفس، وبقع صغيرة مشبعة على الوجه أو الحركة أو بؤرة الحكاية فقط. الألوان مسطّحة مع أثر الفرشاة الجافة والحبيبات والرذاذ وانزياح طباعي خفيف، كأنها طباعة حريرية مع أقلام الشمع، والنص قليل: بطاقات صغيرة أو ملاحظات جانبية بخط يد مستدير.",
+    "traits": [
+      "كتل بسيطة",
+      "بنية داكنة",
+      "طباعة حريرية",
+      "أقلام الشمع",
+      "حكايات"
+    ],
+    "good": [
+      "عنصر واحد في مكان يوحي بحكاية: طفل عند باب، قطة على حافة نافذة ليلاً، كوخ في غابة",
+      "مشاهد فيها طريق أو إطار واضح: شخص في زقاق، مدخل نفق، نافذة مضاءة",
+      "صور تريدها صفحة من كتاب مصوّر أو غلاف قصة أو رسماً فيه شيء من الغموض"
+    ],
+    "poor": [
+      "طلب مظهر مشرق خفيف تغلب عليه المساحات الفاتحة",
+      "صور فيها عناصر كثيرة متساوية الأهمية جنباً إلى جنب، تضيع هويتها حين تُدمج في كتلة أو كتلتين",
+      "طلب إضاءة واقعية أو حجم مجسّم أو رسم متجهي أملس أو ثلاثي الأبعاد"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-005
-description: "Create XXD Panel 005 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-005 or requests the exact Panel 005 style."
+description: "XXD Panel 005｜Dark Fairytale Edition: compresses a photo into a fairy-tale print: the subject becomes one or two blunt, slightly exaggerated shapes wrapped by a large dark structural field taken from the scene (a frame, path or dense layer that hides and reveals), flat picture-book perspective with top-down compression, scale jumps or edge cropping, a three-part palette of heavy dark structure, light breathing space and small saturated emotion colours on the face or story focus, sparse slightly inaccurate thin lines, flat colour with dry brush, grain, speckle and slight misregistration like screenprint and crayon, and a few rounded hand-lettered labels. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-005 or asks for dark fairy-tale prints, screenprint picture-book illustration or crayon-and-screenprint storybook art from a photo."
 ---
 
 # XXD Panel 005
